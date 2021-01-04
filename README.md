@@ -1,8 +1,4 @@
-# bestem
+#Covid Awareness Applicatio
+This application was designed to track down the number of Covid cases in each region of Roumania and in all the countries around the globe.
 
-- Pagina statistici Romania + glob (Romania - date la zi / Glob - worldometers.com)
-- Se gasesc pe net informatii despre locatiile de testare covid, putem sa integram cumva asta cu maps api si sa apare pin-uri pe google maps
-- Sidebar sau iconita in stanga-sus / dreapta-sus pentru profilul persoanelor => trb. sa facem sistem de logare
-- Culoare background: white, Culoare accent (pentru iconite etc.): #69A2FF (albastru deschis), culoare Secundara (iconite inactive): #787878(gri inchis);
-- Sa avem conturi cu o bază de date in care sa vedem prietenii cu care ne-am întâlnit în ultimele 2 săptămâni
-- !!!Cand faceti iconitele (res->drawable->new->vector-asset), puneti va rog culoarea #69A2FF
+You can add new persons every time you meet them, and in case any of the get infected and report it through the app, you can see your chances of being infected.
